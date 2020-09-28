@@ -1,8 +1,8 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.dwade75.jirabranchslugify.listeners
 
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.dwade75.jirabranchslugify.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

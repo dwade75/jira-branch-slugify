@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dwade75.jirabranchslugify.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dwade75.jirabranchslugify.MyBundle
 
 class MyApplicationService {
 
